@@ -1,0 +1,97 @@
+/*
+
+  main.css
+  Programmed by mitchell seitz , feb 2024
+
+  This is the css formatting code for most of the website.
+
+*/
+
+/*General formatting */
+* {
+  /* This allows elements to reach the edge of the screen*/
+  padding:0;
+  margin:0;
+}
+
+/* This is the formatting for our header, at the top of the page. */
+header{
+  /* background-color sets the color of the background around the text! */
+  background-color: black;
+  /* color sets the font folor! */
+  color: steelblue;
+  /* The padding-direction css allows for some padding to be inserted around elements! */
+  padding-top: 5px;
+  padding-left: 15px;
+  padding-bottom: 5px;
+  /* This lets us have our logo hug the left, right, or stick to the middle! */
+  position: relative;
+  text-align: left; /* Change this to left for the logo to hug the left, or center for the logo in the middle!*/
+  /* This makes our header take up the whole width of the screen */
+  width: 100%;
+}
+
+/* General body formatting */
+body {
+  background-color: navy;
+  text-align: center;
+}
+
+/*Formatting for the information class, which will hold our information.*/
+.information{
+  background-color: white;
+  font-size: 22px; /* This is how you set the font size  */
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /* margin-direction allows you to impose limits on a element's size in a certain direction */
+  margin-left: 5%;
+  margin-right: 5%;
+
+  min-height: 50vh;
+
+}
+
+/*Formatting for our buttons*/
+.buttons{
+  background-color: white;
+  font-size: 22px; /* This is how you set the font size  */
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  /* margin-direction allows you to impose limits on a element's size in a certain direction */
+  margin-left: 5%;
+  margin-right: 5%;
+  /* setting min height of buttons so they dont get pushed off screen */
+  min-height: 10vh;
+
+}
+
+/* Formatting for page titles */
+.pagetitle{
+  padding-top: 20px;
+  /*padding-bottom: 20px;*/
+  background-color: white;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+/*Formatting for the footer at the bottom of the page*/
+footer{
+  /* This code can make the footer cling to the bottom of the page - Great for organization! */
+  /* Taken from w3schools, https://www.w3schools.com/howto/howto_css_fixed_footer.asp */
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: steelblue;
+  text-align: center;
+
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+
+}

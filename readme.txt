@@ -20,6 +20,9 @@ Browse products and add to your shopping cart, a searchable catalog, and a check
 that can be used to place an order. This program uses the MVC pattern, with the index.php 
 file functioning as the main controller and the rest of the program functioning as views 
 and database interfaces. 
+
+See folder "compsci_student_store" for source code, and file "compsci_store_database.sql" 
+For the SQL database export file.
 ____________________________________________________________________________________________
 
 Software Requirements for installation: 
