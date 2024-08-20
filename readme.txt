@@ -1,11 +1,13 @@
 Computer Science Student Store 
 
 Prototype & School project
+See www.mseitz.dev/webDevelopment/CSS_Store.php for further analysis and presentation
 
 Readme File
 
 Mitchell Seitz,
 March 14, 2024.
+mseitz.dev
 ____________________________________________________________________________________________
 
 Description:
