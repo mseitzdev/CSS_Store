@@ -1,6 +1,6 @@
-Computer Science Student Store
+Computer Science Student Store - Prototype & School project
 
-Readme File 
+Readme File
 
 Mitchell Seitz,
 March 14, 2024.
