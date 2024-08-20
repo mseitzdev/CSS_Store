@@ -1,4 +1,6 @@
-Computer Science Student Store - Prototype & School project
+Computer Science Student Store 
+
+Prototype & School project
 
 Readme File
 
