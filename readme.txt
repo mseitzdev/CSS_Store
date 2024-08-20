@@ -3,6 +3,9 @@ Computer Science Student Store
 Prototype & School project
 See www.mseitz.dev/webDevelopment/CSS_Store.php for further analysis and presentation
 
+Note - Formatting appears to be different in github than my text editor, will
+       make sure to pay attention to tab length presentation in future. 
+
 Readme File
 
 Mitchell Seitz,
